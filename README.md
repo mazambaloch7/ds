@@ -5,3 +5,7 @@ This specialization is a mix of theory and practice: you will learn algorithmic 
 
 # About this Repo
 Contains Solutions to weekly programming assignments for Data Structures and Algorithms Course on Coursera.They will be programmed in java and python Feel free to comment the code and send pull requests.
+
+
+
+notes: the purpose of this repository is to help the student to solved the assignment...and many student join the DSA course from the coursera.
